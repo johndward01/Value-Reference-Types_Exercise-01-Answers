@@ -39,6 +39,8 @@ namespace Value_and_Reference_Types_Exercise_01
             // TODO: Double variable value = .005
             // TODO: Integer variable value = 10
             // TODO: String variable value = "Hello World"
+
+            // Why:
             // Answer: Because these are Value Types their values are copied, therefore, when you write the original to the conosle none of them have changed!
 
             // TODO: Write out the original variable to the console after being changed by the ChangeValueType() function
