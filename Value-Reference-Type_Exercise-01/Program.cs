@@ -101,6 +101,8 @@ namespace Value_and_Reference_Types_Exercise_01
             // TODO: List<int> variable values = 100200300
             // TODO: int[] variable values = 400500600
             // TODO: Dog object variable's name = A changed name
+
+            // Why:
             // Answer: Because these are Reference Types their values are not copied, therefore, when you write the original to the conosle they will be changed!
 
 
