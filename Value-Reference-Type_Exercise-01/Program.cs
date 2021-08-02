@@ -54,6 +54,7 @@ namespace Value_and_Reference_Types_Exercise_01
             AddSection();
 
             #region Reference Type TODOs w/ answers
+
             // TODO: Use the 4 reference type variables that are already declared and initialized below
             StringBuilder sb = new StringBuilder("The starting string's value.");
             List<int> myList = new List<int>() { 1, 2, 3 };
